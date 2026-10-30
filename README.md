@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/intense-logo.png" width="150" alt="INTENSE logo" />
+</p>
 
 ![header](Documents/header.png)
 
@@ -417,6 +420,10 @@ Peak frequencies, center-of-gravity values, valid channels, and estimated aperio
 **Contact**: first name dot last name at gmail dot com.
 
 [▲ index](#-index)
+
+## Acknowledgment
+
+The present work was carried out as part of the “INTENSE” project, financially supported by the Ministry of Enterprise and Made in Italy (MIMI).
 
 ![separator](Documents/separator2.png)
 
